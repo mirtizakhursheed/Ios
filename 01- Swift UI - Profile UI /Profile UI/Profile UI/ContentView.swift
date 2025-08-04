@@ -146,7 +146,7 @@ struct AboutView: View {
             .font(.largeTitle)
             .padding()
         
-        Text("I'm an Ios Developer. Let's deep deeper and create some more exciting projects.")
+        Text("I'm an Ios Developer. Let's dive deeper and create some more exciting projects.")
             .foregroundColor(.black)
             .font(.body)
             .multilineTextAlignment(.center)
