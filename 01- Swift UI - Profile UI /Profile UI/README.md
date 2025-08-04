@@ -4,7 +4,7 @@
 * [2- MockK](#2-MockK)
 
 ### 1-Some useful resources related to Mockk
-![Logo](01- Profile UI.png)
+![Logo](profile.png)
 * Documentation. https://mockk.io/
 * Basic features of the MockK library. https://androidrepo.com/repo/mockk-mockk-android-test <br> https://www.baeldung.com/kotlin/mockk
 * Mockk with MVP https://marco-cattaneo.medium.com/kotlin-unit-testing-with-mockk-91d52aea2852
